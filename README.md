@@ -1,7 +1,7 @@
 # :rocket: Terraform Aws Eks Production Cluster
 
 <p align="center">
-  <img src="docs/images/cluster-architecture.jpg" alt="EKS Cluster Architecture Blueprint" width="100%" style="border-radius: 8px;" />
+  <img src="docs/images/architecture-white.jpg" alt="EKS Cluster Architecture Blueprint" width="100%" style="border-radius: 8px;" />
 </p>
 
 <div align="center">
