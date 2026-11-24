@@ -1,11 +1,15 @@
 # :rocket: Terraform Aws Eks Production Cluster
 
+<p align="center">
+  <img src="docs/images/cluster-architecture.jpg" alt="EKS Cluster Architecture Blueprint" width="100%" style="border-radius: 8px;" />
+</p>
+
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-production--ready-brightgreen?style=for-the-badge&logo=git)]()
 [![Domain](https://img.shields.io/badge/domain-Cloud--Architecture--and--IaC-blueviolet?style=for-the-badge)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/T9113/terraform-aws-eks-production-cluster/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/tayyabmasood911/terraform-aws-eks-production-cluster/pulls)
 [![Security Hardened](https://img.shields.io/badge/security-hardened-red?style=for-the-badge&logo=shield)]()
 
 </div>
@@ -79,7 +83,7 @@ Key operational outcomes:
 ### Deployment Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/T9113/terraform-aws-eks-production-cluster.git
+git clone https://github.com/tayyabmasood911/terraform-aws-eks-production-cluster.git
 cd terraform-aws-eks-production-cluster
 
 # 2. Inspect and configure environment parameters
@@ -118,7 +122,7 @@ cp config/example.env config/.env
 
 **Tayyab Masood**  
 Cloud Solutions Architect & Senior DevOps Engineer  
-- :globe_with_meridians: **GitHub:** [@T9113](https://github.com/T9113)  
+- :globe_with_meridians: **GitHub:** [@tayyabmasood911](https://github.com/tayyabmasood911)  
 - :scroll: **Certification:** AWS Certified Solutions Architect - Associate  
 
 ---
